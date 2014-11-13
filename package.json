@@ -1,0 +1,30 @@
+{
+  "name": "make-prop-stream",
+  "version": "1.0.0",
+  "description": "Takes in values and outputs objects with that value under a given property",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/RangerMauve/make-prop-stream.git"
+  },
+  "keywords": [
+    "prop",
+    "property",
+    "stream",
+    "transform",
+    "make",
+    "as"
+  ],
+  "author": "RangerMauve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RangerMauve/make-prop-stream/issues"
+  },
+  "homepage": "https://github.com/RangerMauve/make-prop-stream",
+  "dependencies": {
+    "make-prop": "^1.0.0"
+  }
+}
