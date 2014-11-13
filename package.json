@@ -26,5 +26,9 @@
   "homepage": "https://github.com/RangerMauve/make-prop-stream",
   "dependencies": {
     "make-prop": "^1.0.0"
+  },
+  "devDependencies": {
+    "stdout": "0.0.3",
+    "stream-array": "^1.0.1"
   }
 }
